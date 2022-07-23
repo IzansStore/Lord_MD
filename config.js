@@ -44,37 +44,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/lord_ammar_quoteser'
-global.sgh = 'https://github.com/AmmarrBN'
-global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
+global.sig = '-'
+global.sgh = 'https://github.com/SAKUTA123'
+global.sgc = 'https://chat.whatsapp.com/EXZDlDV87ZwEbLWILkcF6u'
 global.sdc = '-'
-global.snh = 'https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '087708773367'
-global.ppulsa2 = '088229683561'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '087752078797'
+global.ppulsa2 = '087760550924'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
+global.nomorbot = '6287752078797'
+global.nomorown = '6287760550924'
 global.namebot = 'Lord-Botz'
-global.nameown = 'Ammar-Executed'
+global.nameown = 'LeonRecode'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  ['6287760550924'],
+  ['6287752078797'],
+  ['6287760550924'],
+  ['6287760550924', '⌬ Leon Recode', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6288229683561'] // Want some help?
-global.prems = ['6288229683561','6287708773367'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6287760550924'] // Want some help?
+global.prems = ['6287760550924','6287760550924'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
