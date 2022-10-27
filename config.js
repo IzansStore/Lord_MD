@@ -51,30 +51,30 @@ global.sdc = '-'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '087752078797'
-global.ppulsa2 = '087760550924'
-global.psaweria = '-'
+global.pdana = '082298627146'
+global.povo = '082298627146'
+global.pgopay = '082298627146'
+global.ppulsa = '082298627146'
+global.ppulsa2 = '082298627146'
+global.psaweria = '082298627146'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287752078797'
-global.nomorown = '6287760550924'
-global.namebot = 'Lord-Botz'
-global.nameown = 'LeonRecode'
+global.nomorbot = '6282286565156'
+global.nomorown = '6282298627146'
+global.namebot = 'IzansBotz'
+global.nameown = 'Izansmd'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287760550924'],
-  ['6287752078797'],
-  ['6287760550924'],
-  ['6287760550924', '⌬ Leon Recode', true]
+  ['6282298627146'],
+  ['6282298627146'],
+  ['6282298627146'],
+  ['6282298627146', '⌬ Izans md', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6287760550924'] // Want some help?
-global.prems = ['6287760550924','6287760550924'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6282298627146'] // Want some help?
+global.prems = ['6282298627146','6282298627146'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Lord Botz ⁩㊣ 」' //Main Watermark
+global.wm = '                「 IzansBotz ⁩㊣ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Lord 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ Izans botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Lord BOT あ⁩ 」'
+global.author = '                「 Izans BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
